@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "2026-05-09T11:48:51",
+    "nome": "solucao_final_grupo_11",
+    "algoritmo": "FP-Growth",
+    "parametros": {
+      "min_support": 0.2,
+      "min_confidence": 1.0,
+      "lift_min": 2.0
+    },
+    "metricas": {
+      "n_itemsets": 26791,
+      "n_regras_totais": 2342167,
+      "n_regras_filtradas": 2147441,
+      "tempo_segundos": 54.4802520275116
+    },
+    "observacoes": "Suporte definido em 0.2 devido à alta densidade do dataset. Foco em Confiança 1.0 para segurança biológica."
+  }
+]
